@@ -11,9 +11,7 @@ This particular sample uses the [Provider][] package but any other state managem
 would do.
 
 [Provider]: https://pub.dev/packages/provider
-
-## Goals for this sample
-
+......................................................
 * Show how UI code can be "shielded" from complex asynchrony and pagination logic using
   a `ChangeNotifier`.
 * Illustrate use of `Selector` from the Provider package.
